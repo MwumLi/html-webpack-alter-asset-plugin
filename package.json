@@ -1,0 +1,32 @@
+{
+  "name": "html-webpack-alter-asset-plugin",
+  "version": "1.0.0",
+  "description": "Allow plugins to make changes to the assets before invoking the template when using html-webpack-plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MwumLi/html-webpack-alter-asset-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "html",
+    "html-webpack-plugin",
+    "alter",
+    "asset"
+  ],
+  "author": "MwumLi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MwumLi/html-webpack-alter-asset-plugin/issues"
+  },
+  "homepage": "https://github.com/MwumLi/html-webpack-alter-asset-plugin#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.16.0",
+    "jasmine": "^2.5.1",
+    "webpack": "^1.13.0"
+  }
+}
