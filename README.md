@@ -92,7 +92,7 @@ changes :
 
 4. `html-webpack-alter-asset-plugin` deal assets after `chunks`, `excludeChunks` from `html-webpack-plugin`, which means assets include `chunks` and  skip some chunks from `excludeChunks`  
 
-the whold `injectAlter` :  
+the whole `injectAlter` :  
 
         injectAlter : {
             js : {
