@@ -1,6 +1,5 @@
 # html-webpack-alter-asset-plugin
-Allow plugins to make changes to the assets before invoking the template when using [html-webpack-plugin](html-webpack-plugin)
-
+Allow plugins to make changes to the assets before invoking the template when using [html-webpack-plugin][html-webpack-plugin]
 
 ## Introduce  
 
